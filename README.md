@@ -32,6 +32,25 @@ patch smb.asm patches/nodeath.patch
 2. Edit smb.asm
 3. Run ``git diff smb.asm smb.asm.bk > patches/my_patch_name.patch``
 
+## Utilities
+
+### Level Editors (some can edit palletes and text)
+  - [GreatEd](http://www.romhacking.net/utilities/1468/)
+
+  - [SMB Utility](http://www.romhacking.net/utilities/178/)
+
+### Tile editors
+  - [JimMarshall35's Online Tile Editor](https://jimmarshall35.github.io/)
+
+  - [Tile Layer Pro](https://www.romhacking.net/utilities/108/)
+
+### Sound
+I was not able to find a good program to edit the music/sfx. The music data starts from line **16025** in the assembly file. There is also a description on the format.  
+[SMB Music Support Tool](http://www.romhacking.net/utilities/1512/) can be used in combination with [Super Mario Bros. Music Hacking Guide](https://www.romhacking.net/documents/630/).
+
+### More Information
+Check out [romhacking.net](https://www.romhacking.net/games/709/)
+
 # Credits
 
 - [A Comprehensive Super Mario Bros. Disassembly ](https://gist.github.com/1wErt3r/4048722)
@@ -43,3 +62,17 @@ patch smb.asm patches/nodeath.patch
 - [6502 Assembly](https://en.wikibooks.org/wiki/6502_Assembly)
 
 - [FCEUX NES Emulator](https://fceux.com/web/home.html)
+
+- [romhacking.net](https://www.romhacking.net/games/709/)
+
+- [GreatEd](http://www.romhacking.net/utilities/1468/)
+
+- [SMB Utility](http://www.romhacking.net/utilities/178/)
+
+- [JimMarshall35's Online Tile Editor](https://jimmarshall35.github.io/)
+
+- [Tile Layer Pro](https://www.romhacking.net/utilities/108/)
+
+- [SMB Music Support Tool](http://www.romhacking.net/utilities/1512/)
+
+- [Super Mario Bros. Music Hacking Guide](https://www.romhacking.net/documents/630/)
