@@ -1,5 +1,20 @@
 # Super Mario Bros 1 Disassembly Guide
 
+## Table of Contents
+- [Super Mario Bros 1 Disassembly Guide](#super-mario-bros-1-disassembly-guide)
+  - [Table of Contents](#table-of-contents)
+  - [Cloning the repository](#cloning-the-repository)
+  - [Compile the 6502 assembler](#compile-the-6502-assembler)
+  - [Use the assembler to create a .nes file](#use-the-assembler-to-create-a-nes-file)
+  - [Apply a patch](#apply-a-patch)
+  - [Creating a patch](#creating-a-patch)
+  - [Utilities](#utilities)
+    - [Level Editors (some can edit palletes and text)](#level-editors-some-can-edit-palletes-and-text)
+    - [Tile editors](#tile-editors)
+    - [Sound](#sound)
+    - [More Information](#more-information)
+- [Credits](#credits)
+
 ## Cloning the repository
 
 ```bash
